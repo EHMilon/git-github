@@ -1,0 +1,27 @@
+{
+	"name": "git-github",
+	"displayName": ".git / GitHub",
+	"description": "Work with .git and github. Those extension make the workflow with git smooth, more graphical, easy to use.",
+	"author": {
+		"name": "EH.Milon"
+	},
+	"publisher": "EH.Milon",
+	"icon": "git-vs-github.png",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.82.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"eamodio.gitlens",
+		"TeamHub.teamhub",
+		"GitHub.vscode-pull-request-github",
+		"mhutchie.git-graph",
+		"ms-vscode.remote-repositories"
+	],
+	"__metadata": {
+		"installedTimestamp": 1695657404643
+	}
+}
